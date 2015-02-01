@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/btcsuite/btcwire"
+	"github.com/PointCoin/btcwire"
 	"github.com/davecgh/go-spew/spew"
 )
 

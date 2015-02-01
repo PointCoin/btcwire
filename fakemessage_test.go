@@ -7,7 +7,7 @@ package btcwire_test
 import (
 	"io"
 
-	"github.com/btcsuite/btcwire"
+	"github.com/PointCoin/btcwire"
 )
 
 // fakeMessage implements the btcwire.Message interface and is used to force
